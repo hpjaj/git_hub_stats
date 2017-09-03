@@ -12,3 +12,5 @@ spec/dummy/.sass-cache
 # rspec failure tracking
 .rspec_status
 
+spec/examples.txt
+
